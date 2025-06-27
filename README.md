@@ -17,8 +17,8 @@ This is a Java-based Library Management System that uses a client-server archite
 
 ### Client-Server Interface
 
-![1](./assests/overview-1.jpg)
-![2](./assests/overview-2.jpg)
+![1](./assests/overview-1.png)
+![2](./assests/overview-2.png)
 
 
 ## Project Structure
