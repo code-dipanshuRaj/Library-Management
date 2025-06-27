@@ -13,12 +13,12 @@ This is a Java-based Library Management System that uses a client-server archite
 ## Project overview
 ### 🗺️ ER Diagram
 
-![ER Diagram](./assets/er-diagram.png)
+![ER Diagram](./assets/er-diagram.jpg)
 
 ### Client-Server Interface
 
-![1](./assests/overview-1.png)
-![2](./assests/overview-2.png)
+![1](./assests/overview-1.jpg)
+![2](./assests/overview-2.jpg)
 
 
 ## Project Structure
